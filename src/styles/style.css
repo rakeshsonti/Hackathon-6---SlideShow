@@ -1,0 +1,31 @@
+.slide{
+    background-color:greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 70px;
+    width: 600px;
+    height:300px;
+    text-align: center;
+    overflow: auto;
+}
+button:hover{
+    background-color: green;
+    font-size: 20px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    padding: 10px;
+}
+.btn-1{
+    margin: 1px;
+    background-color: royalblue;
+    color: white;
+    
+}
